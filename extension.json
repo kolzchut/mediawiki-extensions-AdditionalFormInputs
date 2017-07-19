@@ -1,0 +1,20 @@
+{
+	"name": "AdditionalFormInputs",
+	"version": "0.1.0",
+	"author": [
+		"Dror S. [FFS] ([http://www.kolzchut.org.il Kol-Zchut])"
+	],
+	"url": "https://github.com/kolzchut/mediawiki-extensions-AdditionalFormInputs",
+	"descriptionmsg": "ext-aforminputs-desc",
+	"license-name": "GPL-2.0+",
+	"type": "other",
+	"AutoloadClasses": {
+		"HTMLUnsignedIntField": "includes/HTMLUnsignedIntField.php"
+	},
+	"MessagesDirs": {
+		"AdditionalFormInputs": [
+			"i18n"
+		]
+	},
+	"manifest_version": 1
+}

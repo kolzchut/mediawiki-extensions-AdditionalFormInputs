@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+		]
+	},
+    "ext-aforminputs-desc": "Provides additional form inputs to other extensions",
+	"htmlform-unsigned-int-invalid": "The value you specified is not a positive integer."
+}
