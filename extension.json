@@ -1,6 +1,6 @@
 {
 	"name": "AdditionalFormInputs",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"author": [
 		"Dror S. [FFS] ([http://www.kolzchut.org.il Kol-Zchut])"
 	],
@@ -9,7 +9,8 @@
 	"license-name": "GPL-2.0+",
 	"type": "other",
 	"AutoloadClasses": {
-		"HTMLUnsignedIntField": "includes/HTMLUnsignedIntField.php"
+		"HTMLUnsignedIntField": "includes/HTMLUnsignedIntField.php",
+		"HTMLSelectWithButton": "includes/HTMLSelectWithButton.php"
 	},
 	"MessagesDirs": {
 		"AdditionalFormInputs": [
